@@ -1,16 +1,34 @@
-### Hello there 👋
+## Hello there 👋
 
-<!--
-**MrPrimitive/MrPrimitive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Nils Niemeyer
 
-Here are some ideas to get you started:
+- 👨🏼‍💻 I'm Software / Game Developer 
+- 🔭 Working on some fancy new stuff
+- 👨🏼‍🎓 Studying for my Bachelor Degree in Game Development
+- 🌱 Always learning - keep up-to-date!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+```
+¯\_(ツ)_/¯
+```
+---
+💕 Love working with
+- ``C#`` -> .NET / Unity
+- ``C++`` -> Unreal Engine
+- ``Java`` -> love-hate relationship (also a nice island)
+- ~~JavaScript~~ / ``TypeScript`` -> Angular
+- ``bash scripting`` -> ``DONT FORGET THE SHEBANG #! `` 😁
+
+
+💔 Don't Like working wth 
+- Visual Basic
+- Legacy stuff
+
+---
+### ⚡ Programmer dad be like ⚡
+```
+  Me: Count to ten
+  Son: 1, 2...
+  Me: You're not my son! ┗|｀O′|┛
+  Son: (￣m￣）
+```
