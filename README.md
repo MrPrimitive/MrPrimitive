@@ -5,7 +5,7 @@
 - 👨🏼‍💻 I'm Software / Game Developer 
 - 🔭 Working on some fancy new stuff
 - 👨🏼‍🎓 Studying for my Bachelor Degree in Game Development
-- 🌱 Always learning - keep up-to-date!
+- 🌱 Always learning - keep fetching!
 
 ---
 ```
@@ -13,7 +13,7 @@
 ```
 ---
 💕 Love working with
-- ``C#`` -> .NET / Unity
+- ``C#`` -> .NET Universe / Unity
 - ``C++`` -> Unreal Engine
 - ``Java`` -> love-hate relationship (also a nice island)
 - ~~JavaScript~~ / ``TypeScript`` -> Angular
