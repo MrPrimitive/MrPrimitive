@@ -8,7 +8,9 @@
 - 🌱 Always learning - keep fetching!
 
 Portfolio: [Nils Niemeyer](https://www.nilsniemeyer.ch/)
+
 Makoto Studio Entertainment : [Makoto Studio Entertainment](https://www.makotostudio.ch/)
+
 ---
 ```
 ¯\_(ツ)_/¯
