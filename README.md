@@ -4,8 +4,9 @@
 
 - 👨🏼‍💻 I'm Software / Game Developer 
 - 🔭 Working on some fancy new stuff
-- 👨🏼‍🎓 Studying for my Bachelor Degree in Game Development
+- 👨🏼‍🎓 Bachelor's Degree in Game Development
 - 🌱 Always learning - keep fetching!
+- 🦥 Build Failed - (╯°□°）╯︵ ┻━┻
 
 Portfolio: [Nils Niemeyer](https://www.nilsniemeyer.ch/)
 
@@ -19,7 +20,7 @@ Makoto Studio Entertainment : [Makoto Studio Entertainment](https://www.makotost
 💕 Love working with
 - ``C#`` -> .NET Universe / Unity
 - ``C++`` -> Unreal Engine
-- ``Java`` -> love-hate relationship (also a nice island)
+- ``Java`` -> First love
 - ~~JavaScript~~ / ``TypeScript`` -> Angular
 - ``bash scripting`` -> ``DONT FORGET THE SHEBANG #! `` 😁
 
